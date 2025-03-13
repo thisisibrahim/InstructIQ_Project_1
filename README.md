@@ -71,7 +71,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/bike-sharing-prediction.git
+git clone https://github.com/thisisibrahim/bike-sharing-prediction.git
 Install dependencies:
 bash
 Copy
