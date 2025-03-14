@@ -66,22 +66,6 @@ R² Score	0.9977
 ✅ Generated synthetic patterns to improve model training.
 ✅ Achieved near-perfect accuracy through strategic feature engineering and model tuning.
 
-💻 How to Run It
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/thisisibrahim/bike-sharing-prediction.git
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the script:
-bash
-Copy
-Edit
-python bike_sharing_model.py
 🤝 Contributions
 Feel free to fork this repo and submit a pull request if you have ideas for improvement! 😎
 
